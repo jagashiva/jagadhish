@@ -1,0 +1,19 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+ }
+
+nav li
+{
+height: 100%;
+width: 100%;
+/* background-color: rgb(255, 0, 0); */
+/* color: rgb(255, 0, 0); */
+color: rgb(255, 255, 0);
+display: flex;
+justify-content: center;
+align-items: center;
+}
